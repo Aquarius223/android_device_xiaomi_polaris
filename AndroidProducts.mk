@@ -14,9 +14,9 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_polaris.mk
+    $(LOCAL_DIR)/sticos_polaris.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_polaris-user \
-    lineage_polaris-userdebug \
-    lineage_polaris-eng
+    sticos_polaris-user \
+    sticos_polaris-userdebug \
+    sticos_polaris-eng

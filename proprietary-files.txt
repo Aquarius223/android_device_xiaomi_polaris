@@ -357,6 +357,7 @@ vendor/etc/thermal-engine-sdm845-nolimits.conf
 vendor/etc/thermal-engine-sdm845-phone.conf
 vendor/etc/thermal-engine-sdm845-pubgmhd.conf
 vendor/etc/thermal-engine-sdm845-sgame.conf
+vendor/etc/thermal-engine-sdm845-gamebox.conf
 vendor/etc/thermal-engine-sdm845-tgame.conf
 vendor/etc/thermal-engine-sdm845.conf
 vendor/etc/thermal-engine.conf
